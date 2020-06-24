@@ -1,0 +1,64 @@
+USER  MOD reduce.3.3.160602 H: found=0, std=0, add=26, rem=0, adj=1
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE RRC A1293
+HET    RRC  A1293      26
+HETNAM     RRC R-ROSCOVITINE
+FORMUL   5  RRC    C19 H26 N6 O
+USER  MOD -----------------------------------------------------------------
+USER  MOD scores for adjustable sidechains, with "set" totals for H,N and Q
+USER  MOD "o" means original, "f" means flipped, "180deg" is methyl default
+USER  MOD "!" flags a clash with an overlap of 0.40A or greater
+USER  MOD flip categories: "K"=keep, "C"=clashes, "X"=uncertain, "F"=flip
+USER  MOD Single : A1293 RRC OAP :   rot  180:sc=       0
+USER  MOD -----------------------------------------------------------------
+HETATM 7101  OAP RRC A1293      57.526  30.712  29.696  1.00 25.66           O
+HETATM 7102  CAQ RRC A1293      58.543  30.470  30.637  1.00 24.83           C
+HETATM 7103  CAR RRC A1293      59.779  30.006  29.860  1.00 23.85           C
+HETATM 7104  CAK RRC A1293      60.936  29.911  30.856  1.00 22.57           C
+HETATM 7105  CAI RRC A1293      61.540  28.530  31.002  1.00 24.20           C
+HETATM 7106  NAS RRC A1293      59.365  28.720  29.317  1.00 19.83           N
+HETATM 7107  CAT RRC A1293      59.154  28.424  28.009  1.00 21.51           C
+HETATM 7108  NAU RRC A1293      58.754  27.170  27.687  1.00 21.47           N
+HETATM 7109  CAV RRC A1293      58.538  26.849  26.400  1.00 21.43           C
+HETATM 7110  NAW RRC A1293      58.130  25.697  25.920  1.00 23.61           N
+HETATM 7111  CAZ RRC A1293      57.891  24.628  26.903  1.00 23.34           C
+HETATM 7112  CAY RRC A1293      56.390  24.341  26.894  1.00 23.34           C
+HETATM 7113  CBA RRC A1293      58.876  23.510  26.687  1.00 22.07           C
+HETATM 7114  CAX RRC A1293      58.035  25.832  24.567  1.00 24.53           C
+HETATM 7115  CAN RRC A1293      58.726  27.715  25.383  1.00 25.31           C
+HETATM 7116  NAO RRC A1293      58.450  27.088  24.165  1.00 22.28           N
+HETATM 7117  NAL RRC A1293      59.342  29.306  27.010  1.00 21.92           N
+HETATM 7118  CAM RRC A1293      59.136  28.993  25.724  1.00 21.18           C
+HETATM 7119  NAJ RRC A1293      59.282  29.886  24.736  1.00 23.62           N
+HETATM 7120  CAD RRC A1293      59.371  31.321  24.996  1.00 24.23           C
+HETATM 7121  CAE RRC A1293      60.784  31.842  25.117  1.00 23.99           C
+HETATM 7122  CAG RRC A1293      61.116  32.727  26.149  1.00 24.88           C
+HETATM 7123  CAH RRC A1293      62.423  33.218  26.256  1.00 24.11           C
+HETATM 7124  CAF RRC A1293      63.389  32.854  25.314  1.00 24.13           C
+HETATM 7125  CAC RRC A1293      63.052  31.990  24.270  1.00 24.84           C
+HETATM 7126  CAB RRC A1293      61.752  31.484  24.173  1.00 24.43           C
+HETATM    0 HBA3 RRC A1293      58.769  23.153  25.792  1.00 22.07           H   new
+HETATM    0 HBA2 RRC A1293      59.779  23.849  26.794  1.00 22.07           H   new
+HETATM    0 HBA1 RRC A1293      58.716  22.807  27.336  1.00 22.07           H   new
+HETATM    0 HAY3 RRC A1293      55.905  25.145  27.137  1.00 23.34           H   new
+HETATM    0 HAY2 RRC A1293      56.120  24.057  26.007  1.00 23.34           H   new
+HETATM    0 HAY1 RRC A1293      56.191  23.638  27.532  1.00 23.34           H   new
+HETATM    0 HAQ2 RRC A1293      58.739  31.274  31.143  1.00 24.83           H   new
+HETATM    0 HAQ1 RRC A1293      58.266  29.794  31.274  1.00 24.83           H   new
+HETATM    0 HAK2 RRC A1293      61.633  30.527  30.582  1.00 22.57           H   new
+HETATM    0 HAK1 RRC A1293      60.622  30.206  31.725  1.00 22.57           H   new
+HETATM    0 HAI3 RRC A1293      60.859  27.909  31.306  1.00 24.20           H   new
+HETATM    0 HAI2 RRC A1293      61.886  28.236  30.145  1.00 24.20           H   new
+HETATM    0 HAI1 RRC A1293      62.262  28.559  31.649  1.00 24.20           H   new
+HETATM    0 HAD2 RRC A1293      58.921  31.798  24.281  1.00 24.23           H   new
+HETATM    0 HAD1 RRC A1293      58.892  31.521  25.815  1.00 24.23           H   new
+HETATM    0  HAZ RRC A1293      58.078  24.859  27.826  1.00 23.34           H   new
+HETATM    0  HAX RRC A1293      57.718  25.139  23.966  1.00 24.53           H   new
+HETATM    0  HAS RRC A1293      59.242  28.084  29.882  1.00 19.83           H   new
+HETATM    0  HAR RRC A1293      60.083  30.589  29.147  1.00 23.85           H   new
+HETATM    0  HAP RRC A1293      56.831  30.968  30.093  1.00 25.66           H   new
+HETATM    0  HAJ RRC A1293      59.325  29.606  23.924  1.00 23.62           H   new
+HETATM    0  HAH RRC A1293      62.658  33.812  26.986  1.00 24.11           H   new
+HETATM    0  HAG RRC A1293      60.441  33.000  26.790  1.00 24.88           H   new
+HETATM    0  HAF RRC A1293      64.292  33.201  25.385  1.00 24.13           H   new
+HETATM    0  HAC RRC A1293      63.720  31.741  23.612  1.00 24.84           H   new
+HETATM    0  HAB RRC A1293      61.521  30.882  23.448  1.00 24.43           H   new
